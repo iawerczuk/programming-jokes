@@ -1,10 +1,11 @@
-$random-jokes
+#random-jokes
 
 Simple app using 
 
 axios
 api from DadJokes API
 REactJS
+git status
 
 
 # Getting Started with Create React App
