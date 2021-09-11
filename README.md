@@ -4,8 +4,7 @@ Simple app using
 
 axios
 api from DadJokes API
-REactJS
-git status
+ReactJS
 
 
 # Getting Started with Create React App

@@ -7,9 +7,11 @@
 .App {
   display: flex;
   flex-direction: column;
+  height: 100vh;
   font-family: 'Courier New', Courier, monospace;
   font-weight: 700;
-
+  background-image: url(pexels-luis-gomes-546819.jpg);
+  background-size: cover;
 }
 
 .content {
