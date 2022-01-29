@@ -6,12 +6,19 @@
 
 .App {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   height: 100vh;
   font-family: 'Courier New', Courier, monospace;
   font-weight: 700;
   background-image: url(pexels-luis-gomes-546819.jpg);
   background-size: cover;
+}
+.content-div{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .content {
@@ -23,14 +30,15 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: row;
   background-color: #96f1f1;
 }
-.loader{
+/* .loader{
 
-}
-
+} */
+/* 
 .joke{
-}
+} */
 
 .button{
   width: 200px;
