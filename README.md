@@ -1,10 +1,12 @@
-#random-jokes
+## Programming jokes and random jokes
 
-Simple app using 
+### Simple app using 
 
-axios
-api from DadJokes API
-ReactJS
+### -axios
+### -API from DadJokes API
+### -ReactJS
+
+<img width="696" alt="Zrzut ekranu 2022-02-3 o 20 28 35" src="https://user-images.githubusercontent.com/76216302/152415190-5e850d89-f438-4e73-b4da-5d33209cf006.png">
 
 
 # Getting Started with Create React App
